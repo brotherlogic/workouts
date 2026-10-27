@@ -92,7 +92,7 @@ Your 1Hz `.fit.gz` heart-rate telemetry shows a dramatic improvement in intensit
 
 ---
 
-### 5. Refresh Your Shoe Rotation (`1,048 km / 651 mi` on Current Pair)
+### 5. Refresh Your Hoka Mach X 3 (`1,048 km / 651 mi` on Current Pair)
 
-* **What the data shows:** Your current primary shoes (`HOKA new Hoka thingy 2025 sep`) have logged **1,048.2 km (651.3 miles)** across 93 runs (and your previous `HOKA yellow yellow` logged **2,358.2 km / 1,465.3 miles**).
-* **Actionable Tweak:** Midsole foam loses significant energy return and impact attenuation after 500–750 km (300–450 miles). Rotate in a fresh daily trainer for your easy/long runs and pair it with a carbon-plated race shoe for key HM-pace workouts and race day. A modern super shoe + higher cadence typically yields a **2–3% running economy gain (~2 to 2.5 minutes over 21.1 km)**—the exact bridge from `1:31:30` to sub-`1:29:30`.
+* **What the data shows:** Your current primary shoes—logged in Strava as `HOKA new Hoka thingy 2025 sep`, which are **Hoka Mach X 3**—now have **1,048.2 km (651.3 miles)** across 93 runs (and your previous `HOKA yellow yellow` logged **2,358.2 km / 1,465.3 miles**).
+* **Actionable Tweak:** The **Hoka Mach X 3** is a fantastic Pebax-plated, PEBA-topped super-trainer that is more than capable of running a sub-90 half marathon. However, dual-density PEBA/EVA foam and winged Pebax plates lose a large share of their energy return and impact attenuation past 500–750 km (300–450 miles). Rotating in a **fresh pair of Mach X 3** (or pairing a non-plated daily trainer like the Mach 6 for easy Zone 2 runs with a fresh Mach X 3 or carbon-plated Rocket X 2 / Cielo X1 for workouts and race day) will restore that lost PEBA pop—worth **~1.5 to 2.5 minutes over 21.1 km** compared to foam with 650+ miles on it.

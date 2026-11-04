@@ -9,41 +9,49 @@
 ## 1. Current Form & Goal Tiers
 
 * **Recent Speed & Threshold Benchmarks:**
+  * **Progressive Tempo (12 Days Out):** 3.53 miles @ `6:54/mi` moving (`4:17/km`, Avg HR 169 / Max 181, `434 W`, `162.7 spm`; splits `7:04 -> 6:56 -> 6:47 -> 6:43/mi`, including 2.25 uninterrupted miles @ `6:49/mi`, Avg HR 172.5, `444 W`) on Nov 3, 2026 (`running/110326.gpx`).
+  * **Peak 2-Hour Zone 2 Long Run (17 Days Out):** 12.11 miles (`19.48 km`, longest run of 2026) in `2:00:58` moving time @ `9:59/mi` (`6:12/km`, Avg HR `145.6 bpm` / Max `155 bpm`, `98.8%` in Zone 1/2, `303 W`) with **zero cardiac drift (`+0.03%` Speed:HR / `-1.65%` Power:HR decoupling; `-1.84%` excluding Mile 1)** on Oct 29, 2026 (`running/102926.gpx`).
   * **5K Speed:** `19:11` moving time (`6:10/mi` | `3:50/km`, Avg HR 176 / Max 185, `469 W`) on Sep 25, 2026 (`running/activities/21472955436.fit.gz`).
   * **Alternations:** 9 × (400m fast / 400m float) — 3.6 continuous miles @ `7:04/mi` (`4:23/km`, Avg HR 170, `428 W`) on Oct 20, 2026 (`running/activities/21817065156.fit.gz`).
   * **Progressive Long Run:** Closed 9.5 miles with 3 mi @ `7:39/mi` (`166 bpm`, `395 W`) + 2 mi @ `7:11/mi` (`175 bpm`, `433 W`, fastest mile `6:52/mi`) on Oct 9, 2026 (`running/activities/21669038638.fit.gz`).
-  * **Aerobic Base Long Run:** 11.01 miles @ `9:04/mi` (`146 bpm`, `330 W`) on Oct 23, 2026 (`running/activities/21858362004.fit.gz`).
-* **Target Tiers:**
-  * **Primary Goal (Smart PR): `1:31:15 – 1:32:15` (`6:58–7:02/mi` | `4:20–4:22/km`)** — Accounts for ~1:15–1:45 of hill cost and preserves lower-leg durability for the final 5K climb.
-  * **Stretch Goal (Sub-90): `1:29:55` (`6:51.9/mi` | `4:15.8/km`)** — Start on the Primary schedule through Mile 3.5; only shift to Sub-90 splits on the Mile 4 descent if HR is `≤172 bpm` cresting Marin Ave and racing in fresh shoes.
+  * **Aerobic Base Long Run:** 11.01 miles @ `9:04/mi` (`146 bpm`, `330 W`, `+6.0%` decoupling) on Oct 23, 2026 (`running/activities/21858362004.fit.gz`).
+* **Target Tiers (Upgraded after Oct 29 Peak Long Run & Nov 3 Tempo):**
+  * **Primary Goal (High-Confidence PR): `1:30:30 – 1:31:15` (`6:54–6:58/mi` | `4:17–4:20/km`, midpoint `1:30:50`)** — Eliminating late-run cardiac drift on your Oct 29 12.11-mile / 2-hour run (`+0.03%` decoupling vs `+6.0%` on Oct 23) removes ~45–60s of projected late-race fade across Miles 7–13.
+  * **Stretch Goal (Sub-90): `1:29:55` (`6:51.9/mi` | `4:15.8/km`)** — Start within 5 sec/mi of the Primary schedule through Mile 3.5 (`<440 W` uphill cap); shift onto Sub-90 splits on the Mile 4 descent if HR is `≤172 bpm` cresting Marin Ave (or at Mile 7 entering the Marina if HR is `≤174 bpm`) and racing in fresh shoes.
 
 ---
 
-## 2. Mile-by-Mile Pacing Strategy
+## 2. The "4-Phase" Race-Day Pocket Plan
 
-Pace the climbs by **Running Power (`W`)** and **Heart Rate** rather than forcing flat splits uphill. Keep cadence around **`166–170 spm`** to reduce vertical bounce and protect your quads/calves for Mile 11.
+Forget memorizing 13 separate mile splits. The Berkeley course naturally breaks into **4 distinct phases**. You only need to remember **one target per phase** and **two fueling miles (`Mile 5` & `Mile 9.5`)**:
 
-| Mile | Course Segment & Terrain | Elev Trend | Primary (`1:31:45`) | Stretch (`1:29:55`) | Target Power | Target HR | Tactical Cues |
-| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **1** | **Start (Milvia & Kittredge) → South Berkeley** (Fulton / Russell) | Flat / Slight Drop | `7:02/mi` (`4:22/km`) | `6:55/mi` (`4:18/km`) | `410–420 W` | `155–166 bpm` | Settle into rhythm; do not surge off the line. |
-| **2** | **Telegraph Ave → UC Berkeley Campus** (Sather Gate) | Rolling Climb (`+75 ft`) | `7:12/mi` (`4:28/km`) | `7:05/mi` (`4:24/km`) | `425–435 W` | `168–172 bpm` | Shorten stride (`168+ spm`); cap power `<440 W` through campus. |
-| **3** | **North Berkeley / Normandy Village → Mariposa & Marin Ave** | Steepest Rollers (`+110 ft`) | `7:18/mi` (`4:32/km`) | `7:10/mi` (`4:27/km`) | `430–440 W` | `171–174 bpm` | **Crux #1:** Run strictly by effort; giving up 15–20s here saves 2+ mins after Mile 10. |
-| **4** | **Shattuck Ave → Monterey / Hopkins** (Crest & Drop) | Rolling → Downhill (`-60 ft`) | `6:52/mi` (`4:16/km`) | `6:45/mi` (`4:12/km`) | `415–425 W` | `170–173 bpm` | Recover for 200m at the crest, then lean from the ankles into the descent. |
-| **5** | **Hopkins St → Gilman St** (Westward Descent) | Fast Downhill (`-110 ft`) | `6:45/mi` (`4:12/km`) | `6:38/mi` (`4:07/km`) | `405–415 W` | `169–172 bpm` | *"Free speed"* mile—keep turnover quick (`170 spm`) without braking. **Take Gel #1.** |
-| **6** | **Gilman → 4th Street District** (Sharp Neighborhood Turns) | Gentle Drop (`-65 ft`) | `6:50/mi` (`4:15/km`) | `6:42/mi` (`4:10/km`) | `415–425 W` | `171–174 bpm` | Stay smooth out of 90-degree corners. |
-| **7** | **Ohlone Greenway Crossing → I-80 Overpass** | Slight Drop + Overpass | `6:54/mi` (`4:17/km`) | `6:46/mi` (`4:12/km`) | `420–430 W` | `172–175 bpm` | Hold steady power over the pedestrian bridge onto the waterfront. |
-| **8** | **Berkeley Marina / Spinnaker Way Out-and-Back** | Dead Flat (`±10 ft`) | `6:54/mi` (`4:17/km`) | `6:46/mi` (`4:12/km`) | `420–430 W` | `173–176 bpm` | Lock into rhythm; draft behind a pack if there is a Bay breeze. |
-| **9** | **Frontage Road (Heading South)** | Dead Flat (`±10 ft`) | `6:54/mi` (`4:17/km`) | `6:46/mi` (`4:12/km`) | `420–430 W` | `174–177 bpm` | Tall posture, relaxed shoulders, cadence `>165 spm`. |
-| **10** | **Frontage Road Turnaround → Toward University Ave** | Dead Flat (`±15 ft`) | `6:55/mi` (`4:18/km`) | `6:46/mi` (`4:12/km`) | `425–435 W` | `175–178 bpm` | **Take Gel #2 (caffeinated)** at Mile 9.5 before the final Marina water stop. |
-| **11** | **I-80 Overpass → University Ave → Bancroft Way** | Uphill Begins (`+65 ft`) | `7:06/mi` (`4:25/km`) | `6:56/mi` (`4:18/km`) | `430–440 W` | `176–179 bpm` | **Crux #2:** Start of the final 5K climb. Eyes 20 ft ahead, drive elbows back. |
-| **12** | **Southwest Berkeley Grid** (Curtis St → Channing Way) | Sustained Grind (`+95 ft`) | `7:10/mi` (`4:27/km`) | `7:00/mi` (`4:21/km`) | `435–445 W` | `178–182 bpm` | Mentally toughest mile—accept a slower split while holding `~440 W`. |
-| **13** | **McKinley → Channing Way (Past Berkeley High) → Milvia** | False Flat (`+35 ft`) | `6:58/mi` (`4:20/km`) | `6:48/mi` (`4:13/km`) | `445–460 W` | `180–185 bpm` | Grade eases near Berkeley High; empty the tank down Channing. |
-| **0.1** | **Milvia St Finish Chute (Civic Center Park)** | Flat | `6:15/mi` (`3:53/km`) | `6:05/mi` (`3:47/km`) | `475+ W` | `185+ bpm` | Full kick to the line (`~40–42s`). |
+### The 3 Golden Rules to Remember
+1. **Hill Cap (Miles 1–3.5):** Keep HR **`≤173 bpm`** (Power **`<435 W`**) — let your pace float to `7:05–7:15/mi` on the climb.
+2. **Downhill Flow (Miles 3.5–7):** Let gravity give you **`6:40–6:48/mi`** for free while HR stays **`~170–173 bpm`**.
+3. **Marina Cruise (Miles 7–10.5):** Lock into **`6:50/mi`** (or **`6:45/mi`** for Sub-90 if HR is `≤174 bpm` entering the Marina).
 
-### Split Checkpoints
-* **5K (Top of North Berkeley Climb):** `~22:15` (Primary) | `~21:50` (Sub-90)
-* **10K (4th Street / Flat Transition):** `~43:15` (Primary) | `~42:25` (Sub-90)
-* **10 Miles (Exiting Frontage Rd):** `~1:09:30` (Primary) | `~1:08:05` (Sub-90)
+---
+
+### The 4 Course Phases
+
+| Phase & Miles | Course Landmark | **One Number to Watch** | Expected Pace | Fuel / Tactical Cue |
+| :--- | :--- | :--- | :---: | :--- |
+| **1. The Climb**<br>**Miles 1 – 3.5** | Start → Telegraph → Campus → **Marin Ave Crest** | **HR `≤ 173 bpm`**<br>*(Power `< 435 W`)* | `7:00/mi` Mile 1,<br>`7:05–7:15/mi` on hills | **Ignore pace on the hills.** Shorten stride (`168+ spm`). Giving up 15–20s here saves 2+ mins after Mile 10. |
+| **2. The Drop**<br>**Miles 3.5 – 7.0** | **Hopkins & Gilman Descent** → 4th St → I-80 Bridge | **Pace `6:40–6:48/mi`**<br>*(HR `170–173 bpm`)* | `6:40–6:48/mi` | *"Free speed"*—lean from the ankles, quick feet (`170 spm`), don't over-push power (`405–420 W`).<br>👉 **Take Gel #1 at Mile 5.** |
+| **3. The Flats**<br>**Miles 7.0 – 10.5** | **Marina & Frontage Rd** Out-and-Back | **Pace `6:50/mi`** (`1:30:45`)<br>or **`6:45/mi`** (`Sub-90`)<br>*(HR `174–177 bpm`)* | `6:45–6:50/mi` | **Decision Gate at Mile 7 (I-80 Bridge):**<br>• If HR `≤174 bpm` & legs feel fresh → lock in **`6:45/mi`**.<br>• Otherwise → lock in **`6:50/mi`**.<br>👉 **Take Gel #2 (caffeinated) at Mile 9.5.** |
+| **4. The Grind**<br>**Miles 10.5 – 13.1** | **I-80 Overpass → University → Channing Way → Finish** | **Power `~435–445 W`**<br>*(Stop looking at HR)* | `~7:00–7:05/mi` (Mi 11–12)<br>`<6:50/mi` (Mi 13 + kick) | **Run by effort, not split.** Grind steady up Curtis/Channing (`178–182+ bpm` is normal); when the grade eases near **Sacramento St / Berkeley High (Mile 12.2)**, empty the tank. |
+
+---
+
+### 3 Watch Checkpoints (Elapsed Time)
+
+Glance at your total elapsed time at only three markers:
+
+| Landmark | Distance | On-Track for `1:30:45` (Primary) | On-Track for `1:29:55` (Sub-90) | HR Check |
+| :--- | :---: | :---: | :---: | :---: |
+| **1. Top of North Berkeley Climb** (Marin/Monterey) | **5K (`3.1 mi`)** | **`~22:10`** | **`~21:50`** | Must be **`≤ 173 bpm`** |
+| **2. Entering Flat Transition** (4th St / I-80 Bridge) | **10K (`6.2 mi`)** | **`~43:00`** | **`~42:25`** | **`≤ 174 bpm`** *(Green light for `6:45/mi` on flats)* |
+| **3. Leaving the Waterfront** (End of Frontage Rd) | **10 Mi (`10.0 mi`)** | **`~1:09:10`** | **`~1:08:05`** | HR cap off — **21-min uphill 5K to the finish** |
 
 ---
 
